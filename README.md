@@ -59,9 +59,9 @@ bash
 Copy code
 java ProjectName
 
-Project Details:
+## Project Details:
 
-ATM Interface
+### ATM Interface
 
 How to Use
 
@@ -69,7 +69,7 @@ Compile and run the ATMInterface.java file.
 
 Follow the on-screen prompts to perform different banking operations.
 
-Number Game
+## Number Game
 
 How to Use
 
@@ -77,7 +77,7 @@ Compile and run the NumberGame.java file.
 
 Guess the number within the provided range.
 
-Quiz Application
+### Quiz Application
 
 How to Use
 
@@ -85,7 +85,7 @@ Compile and run the QuizApplication.java file.
 
 Answer the quiz questions displayed on the console.
 
-Student Grade Calculator
+## Student Grade Calculator
 
 How to Use
 
@@ -93,11 +93,11 @@ Compile and run the StudentGradeCalculator.java file.
 
 Input the scores for different subjects as prompted.
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests for any features, improvements, or bug fixes.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or suggestions, please open an issue or contact Vasanthi0812.
